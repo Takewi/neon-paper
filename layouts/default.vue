@@ -9,5 +9,3 @@ export default {
   name: 'DefaultTemplate',
 }
 </script>
-
-<style></style>
